@@ -11,7 +11,7 @@ your project:
 ```json
 {
 	"Lua.workspace.library": [
-		"_location/of/this/addon/after/download_/rapidjson/library"
+		"_location/of/this/addon/after/download_/ezsvg/library"
 	]
 }
 ```
